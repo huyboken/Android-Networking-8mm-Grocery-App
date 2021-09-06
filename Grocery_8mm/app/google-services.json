@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503708519213",
+    "project_id": "android-networking-8mm",
+    "storage_bucket": "android-networking-8mm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503708519213:android:cd5ee9e3cf2adfcf04e1a4",
+        "android_client_info": {
+          "package_name": "com.example.ps12868_assignment_8mm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503708519213-ngmgehuu562rn6aom01amuq24hlc4dea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiLld55xyJU3eB-wWDoCOuCd7ZnCXaLfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503708519213-ngmgehuu562rn6aom01amuq24hlc4dea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
